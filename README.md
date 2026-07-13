@@ -1,6 +1,8 @@
 # Deep Learning Practice
 
-Basic deep learning practice codes based on classroom exercises and selected topics from *Deep Learning from Scratch*.
+This repository contains practice codes completed during the **Deep Learning** course.
+
+The examples are based on classroom exercises and selected topics from *Deep Learning from Scratch*, covering fundamental concepts such as perceptrons, activation functions, neural networks, optimization, and convolutional neural networks.
 
 ## Contents
 
@@ -46,6 +48,7 @@ Basic deep learning practice codes based on classroom exercises and selected top
 
 ## Notes
 
-- Examples are based on classroom exercises and selected topics from *Deep Learning from Scratch*.
+- Examples are based on classroom exercises for the Deep Learning course.
+- Most examples are implemented using NumPy and TensorFlow (Keras).
 - Some examples use the MNIST dataset for training and inference.
 - Large dataset files are not included in this repository.
